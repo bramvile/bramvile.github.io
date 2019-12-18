@@ -24,8 +24,8 @@ const config = {
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
-      label: "GitHub",
-      url: "https://github.com/Vagr9K/gatsby-material-starter",
+      label: "הקמת אתר ב2020",
+      url: "https://github.com/bramvile/bramvile.github.io/blob/master/content/01-01-2017.md",
       iconClassName: "fa fa-github"
     },
     {
