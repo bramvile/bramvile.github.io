@@ -3,12 +3,14 @@
     flex-direction: column;
 
     .main-container {
+        flip: false;
         display: flex;
         min-height: 100%;
         flex-direction: column;
         flex: 1;
 
         .main-content {
+            direction: rtl;
             flex: 1;
         }
     }
